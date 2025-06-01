@@ -38,10 +38,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-C5162E?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/> 
-  
-  
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/>
 </p>
+
+## 🤝 Let's Connect!
+- ✉️ aidan.chien@uwaterloo.ca
+- ![Linkedin](https://i.sstatic.net/gVE0j.png)  &nbsp; [LinkedIn](https://www.linkedin.com/in/aidanchien)
 
 
 <!--
