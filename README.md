@@ -1,4 +1,10 @@
-## Hi there 👋
+![profile_gif_mario](https://github.com/user-attachments/assets/5a30f1e1-f334-4d52-9dc1-f6dab85a2b1b)
+
+<img src="https://github.com/rayyanshuda/rayyanshuda/blob/main/github_profile.gif" alt="Developer sitting in front of desk" width="700">
+
+<h1 align="center"> Hi, I'm Aidan Chien </h1>
+
+<b> I'm a systems engineer interested in the end-to-end design of software and mechanical projects. </b>
 
 <!--
 **chieaid24/chieaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
