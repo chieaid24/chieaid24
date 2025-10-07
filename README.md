@@ -17,7 +17,7 @@
 <h3 align="center">🖥️ Languages & Frameworks</h3>
 <p align="center">
   <!-- To get new Badges: go to https://shields.io/badges and https://simpleicons.org/ . badgeContent will be [Name]-[color] where color is found on simpleIcons. style="for-the-badge". logo=[click on the title of the logo in SimpleIcons]. Execute, and copy/paste as HTML. [Name]-[color] is required for langs with no logo -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
