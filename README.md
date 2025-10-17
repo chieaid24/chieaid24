@@ -9,7 +9,6 @@
 ## 👋 About Me
 
  - 🎓 Systems Design Engineering student at the University of Waterloo
- - 💼 Previous CO-OP at [Autonomous Machining](https://www.autonomous-machining.com/)
  - 🎥 Loves to design and produce films
  - 🧗 Enjoys climbing, basketball, and volleyball
 
