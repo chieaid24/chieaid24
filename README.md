@@ -44,11 +44,13 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge">
   <img alt="AWS EventBridge" src="https://img.shields.io/badge/AWS%20EventBridge-cc2264?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SageMaker-%239c63f7?style=for-the-badge">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/SOLIDWORKS-C5162E?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img alt="Jupyter Lab" src="https://img.shields.io/badge/Jupyter%20Lab-%23F37626?style=for-the-badge">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/>
 </p>
