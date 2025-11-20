@@ -9,6 +9,7 @@
 ## 👋 About Me
 
  - 🎓 Systems Design Engineering student at the University of Waterloo
+ - 🌎 Based in Seattle and Toronto
  - 🎥 Loves to design and produce films
  - 🧗 Enjoys climbing, basketball, and volleyball
 
