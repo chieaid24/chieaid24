@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
- - 🎓 Systems Design Engineering student at the University of Waterloo
+ - 🎓 [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/about-department-systems-design-engineering/what-systems-design-engineering) student at the University of Waterloo
  - 🌎 Based in Seattle and Toronto
  - 🎥 Loves to design and produce films
  - 🧗 Enjoys climbing, basketball, and volleyball
@@ -94,7 +94,7 @@
 
 ## 🤝 Let's Connect!
 - ✉️ aidan.chien@uwaterloo.ca
-- ![Linkedin](https://i.sstatic.net/gVE0j.png)  &nbsp; [LinkedIn](https://www.linkedin.com/in/aidanchien)
+- &nbsp;![Linkedin](https://i.sstatic.net/gVE0j.png) &nbsp; [in/aidanchien](https://www.linkedin.com/in/aidanchien)
 - 🌐 [aidanchien.com](https://aidanchien.com/)
 
 
