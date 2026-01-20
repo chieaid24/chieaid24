@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi, I'm Aidan Chien 😄</h1>
 
-<b> I'm a systems engineer interested in the end-to-end design and development of software projects! </b>
+<b> I'm a systems engineer interested in the design and development of software projects! </b>
 
 ## 👋 About Me
 
