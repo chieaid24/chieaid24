@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
- - 🎓 [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/about-department-systems-design-engineering/what-systems-design-engineering) student at the University of Waterloo
+ - 🎓 Engineering student at the University of Waterloo
  - 🌎 Based in Seattle and Toronto
  - 🎥 Loves to design and produce films
  - 🧗 Enjoys climbing, basketball, and volleyball
