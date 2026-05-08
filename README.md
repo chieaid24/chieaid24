@@ -33,8 +33,8 @@
  </p>
 
 ## 🤝 Let's connect!
-- ✉️ aidan.chien@uwaterloo.ca
-- &nbsp;![Linkedin](https://i.sstatic.net/gVE0j.png) &nbsp; [in/aidanchien](https://www.linkedin.com/in/aidanchien)
-- 🌐 [aidanchien.com](https://aidanchien.com/)
+- aidan.chien@uwaterloo.ca
+- [in/aidanchien](https://www.linkedin.com/in/aidanchien)
+- [aidanchien.com](https://aidanchien.com/)
 
 
