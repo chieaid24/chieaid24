@@ -1,19 +1,20 @@
-<!-- ![profile_gif_mario](https://github.com/user-attachments/assets/5a30f1e1-f334-4d52-9dc1-f6dab85a2b1b) -->
 
-<img src="./profile_gif_mario.gif" alt="Developer sitting in front of desk">
+<h1 align="left"> Hi, I'm Aidan Chien 😄</h1>
 
-<h1 align="center"> Hi, I'm Aidan Chien 😄</h1>
+<p align="left">
+  Building cloud infrastructure and backend systems!
+</p>
 
-<b> I'm a systems engineer interested in the design and development of software projects! </b>
-
-## I'm also
+## I'm also:
 
  - 🎓 Studying engineering at the University of Waterloo
  - 🌎 Based in Seattle and Toronto
  - 🎥 Into videography and producing films
  - 🧗 Into climbing, basketball, and volleyball
 
-## I like using
+
+
+## I like using:
   <!-- 
  To get new Badges: go to https://shields.io/badges and https://simpleicons.org/ 
  badgeContent will be [Name]-[color] where color is found on simpleIcons. ex) Spring AI-#6DB33F
@@ -32,7 +33,14 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=%23FFFFFF">
  </p>
 
-## 🤝 Let's connect!
+## I'm a certified:
+<p align="left">
+  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA" /></a>
+  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS MLA" /></a>
+  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AIF" /></a>
+</p>
+
+## Find me at:
 - aidan.chien@uwaterloo.ca
 - [in/aidanchien](https://www.linkedin.com/in/aidanchien)
 - [aidanchien.com](https://aidanchien.com/)
