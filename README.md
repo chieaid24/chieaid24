@@ -41,7 +41,6 @@
 </p>
 
 ## Find me at:
-- aidan.chien@uwaterloo.ca
 - [in/aidanchien](https://www.linkedin.com/in/aidanchien)
 - [aidanchien.com](https://aidanchien.com/)
 
