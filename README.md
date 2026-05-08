@@ -40,7 +40,7 @@
   <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AIF" /></a>
 </p>
 
-## Find me at:
+## Find me on:
 - [in/aidanchien](https://www.linkedin.com/in/aidanchien)
 - [aidanchien.com](https://aidanchien.com/)
 
