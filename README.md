@@ -1,8 +1,8 @@
 
-<h1 align="left"> Hi, I'm Aidan Chien 😄</h1>
+<h1 align="left"> Hi, I'm Aidan 👋</h1>
 
 <p align="left">
-  Building cloud infrastructure and backend systems!
+  A developer building cloud infrastructure and backend systems!
 </p>
 
 ## I'm also:
