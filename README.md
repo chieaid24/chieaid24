@@ -35,9 +35,9 @@
 
 ## I'm a certified:
 <p align="left">
-  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA" /></a>
-  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS MLA" /></a>
-  <a href="YOUR_CREDLY_URL_HERE"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AIF" /></a>
+  <a href="https://www.credly.com/badges/3be83cd6-7c03-48d3-b7c1-fa4d232c6ee1"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA" /></a>
+  <a href="https://www.credly.com/badges/4f6a5c7f-537a-464d-8854-b4439e25d73d"><img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS MLA" /></a>
+  <a href="https://www.credly.com/badges/8d221e73-7452-4613-8894-6cd85aea8808"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AIF" /></a>
 </p>
 
 ## Find me on:
