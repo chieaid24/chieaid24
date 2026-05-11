@@ -1,8 +1,8 @@
 
-<h1 align="left"> Hi, I'm Aidan 👋</h1>
+<h1 align="left"> Aidan Chien 👋</h1>
 
 <p align="left">
-  A developer building cloud infrastructure and backend systems!
+  I'm a developer building cloud infrastructure and backend systems!
 </p>
 
 ## I'm also:
@@ -40,7 +40,7 @@
   <a href="https://www.credly.com/badges/8d221e73-7452-4613-8894-6cd85aea8808"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AIF" /></a>
 </p>
 
-## Find me on:
+## Find me here!
 - [in/aidanchien](https://www.linkedin.com/in/aidanchien)
 - [aidanchien.com](https://aidanchien.com/)
 
