@@ -23,6 +23,13 @@
  logoColor=#FFFFFF
  Execute, and copy/paste as HTML. 
    [Name]-[color] is required for langs with no logo
+ If logo not on SimpleIcons, must base64 encode SVG:
+  1. Get the SVG file
+  2. Set fill to white: `sed -i 's/fill="[^"]*"/fill="#ffffff"/g' logo.svg`
+  3. Minify if needed: `npm install svgo --prefix /tmp/svgo && /tmp/svgo/node_modules/.bin/svgo logo.svg -o logo-min.svg`
+  4. Encode: `base64 -w 0 logo-min.svg | clip.exe` # copies it as well
+  5. Plug into badge URL:
+  `https://img.shields.io/badge/NAME-%23COLOR?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_HERE&logoColor=white`
  -->
  <p align="left">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
