@@ -9,7 +9,6 @@
 
  - 🎓 Studying engineering at the University of Waterloo
  - 🌎 Based in Seattle and Toronto
- - 🎥 Into videography and producing films
  - 🧗 Into climbing, basketball, and volleyball
 
 
