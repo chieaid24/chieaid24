@@ -7,9 +7,9 @@
 
 ## I'm also:
 
- - Studying engineering at the University of Waterloo
- - Based in Seattle and Toronto
- - Into climbing, basketball, and volleyball
+ - 🎓 Studying engineering at the University of Waterloo
+ - 🌎 Based in Seattle and Toronto
+ - 🧗 Into climbing, basketball, and volleyball
 
 
 
